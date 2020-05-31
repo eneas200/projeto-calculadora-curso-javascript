@@ -1,0 +1,25 @@
+atributo = similiar a uma variavel, porém com mais recursos
+O comando interno
+this = faz referencia atributos e metodos
+o processo de 
+Encapsulamento = controla o acesso a uma atributo ou método
+tres modificadores de acesso é
+public, private, protected
+
+DOM
+D = Document
+O = Object
+M = Model
+
+BOM
+B = Browser
+O = Object 
+M = Model - Navegator
+
+
+classe Date()
+calculator.currentDate.toLocaleDateString("pt-BR", {month:'long'})mostra o nome do mes
+calculator.currentDate.toLocaleDateString("pt-BR", {month:'short'}) mostra o nome do mes
+calculator.currentDate.toLocaleTimeString("pt-BR") mostra as horas
+
+pesquisar audio web api
